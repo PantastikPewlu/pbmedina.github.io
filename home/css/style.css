@@ -360,10 +360,10 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background-image: url("/img/parallax.JPG");
+    background: #141E61
     position: relative;
 	
-    background: #0F044C;
+    background-image: url("img/parallax.JPG");
 	height:650px;
 }
 
