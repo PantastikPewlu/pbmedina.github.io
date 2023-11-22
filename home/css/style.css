@@ -363,7 +363,7 @@ p {
     background: #141E61
     position: relative;
 	
-    background-image: url("img/parallax.JPG");
+    background: #D6CC99;
 	height:650px;
 }
 
@@ -373,6 +373,8 @@ p {
 	
     background: #0F044C;
 	height:650px;
+
+D6CC99
 }
 ---------------------------------*/
 
@@ -494,7 +496,7 @@ a.read_more:hover {
 
 #service {
     padding: 60px 0px;
-    background: #CE1139;
+    background: #D6CC99;
 }
 #service h2{
   color: #fff;
@@ -806,7 +808,7 @@ img {
 
 
 .client_logos {
-    background: #CE1139;
+    background: #D6CC99;
     padding: 60px 0;
     margin-top: 60px;
 }
