@@ -363,7 +363,7 @@ p {
     background: #141E61;
     position: relative;
 	
-    background: #D6CC99;
+    background: #3F4E4F;
 	height:650px;
 }
 
@@ -496,7 +496,7 @@ a.read_more:hover {
 
 #service {
     padding: 60px 0px;
-    background: #D6CC99;
+    background: #3F4E4F;
 }
 #service h2{
   color: #fff;
@@ -808,7 +808,7 @@ img {
 
 
 .client_logos {
-    background: #D6CC99;
+    background: #3F4E4F;
     padding: 60px 0;
     margin-top: 60px;
 }
