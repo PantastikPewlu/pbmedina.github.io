@@ -369,7 +369,7 @@ p {
 
 .parallax {
       /* The image used */
-  background-image: url("img/parallax.JPG");
+  background-image: url("/img/parallax.JPG");
 
   /* Set a specific height */
   min-height: 500px;
