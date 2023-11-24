@@ -328,12 +328,12 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #CA133A;
+    color: #DCD7C9;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #CB143B;
+    color: #A27B5C;
     background-color: transparent;
 }
 
@@ -479,8 +479,8 @@ a.read_more2:hover, a.read_more:hover {
 }
 a.read_more:hover {
     background: #fff;
-    color: #ED5441;
-    border: 1px solid #ED5441;
+    color: #A27B5C;
+    border: 1px solid #A27B5C;
 }
 
 	
@@ -1081,7 +1081,7 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #ED5441;
+    border-color: #A27B5C;
 }
 
 .contact_block_icon.icon3 {
@@ -1098,11 +1098,11 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #ED5441;
+    border-color: #A27B5C;
 }
 
 .contact_block_icon.icon2 span {
-    background: #ED5441;
+    background: #A27B5C;
 }
 
 .contact_block_icon.icon3 {
