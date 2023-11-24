@@ -318,12 +318,12 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #ED5441;
+    color: #A27B5C;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #ED5441;
+    color: #A27B5C;
     background-color: transparent;
 }
 
@@ -340,7 +340,7 @@ p {
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #ED5441;
+    color: #A27B5C;
     background-color: transparent;
 }
 
@@ -632,18 +632,18 @@ a.contact_btn {
     text-align: center;
     line-height: 49px;
     font-size: 16px;
-    color: #ED5441;
+    color: #A27B5C;
     border-radius: 3px;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    border: 2px solid #ED5441;
+    border: 2px solid #A27B5C;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
 }
 
 a.contact_btn:hover {
-    background: #ED5441;
+    background: #A27B5C;
     color: #fff;
 }
 
@@ -688,7 +688,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a:hover {
-    background: #ED5441;
+    background: #A27B5C;
     color: #fff;
     text-decoration: none;
 }
@@ -718,7 +718,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a.current {
-    background: #ED5441;
+    background: #A27B5C;
     color: #fff;
     text-decoration: none;
 }
@@ -848,7 +848,7 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 #about-us .read-more{
-	border: 1px solid #ED5441;
+	border: 1px solid #A27B5C;
 	color: #1a1a1a;
 }
 
@@ -896,7 +896,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #CE1139;
+	color: #A27B5C;
 	left: 0px;
 	top: 3px;
 }
@@ -1985,7 +1985,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#ED5441;
+background:#A27B5C;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
