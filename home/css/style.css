@@ -328,7 +328,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #DCD7C9;
+    color: #2C3639;
     background-color: transparent;
 }
 
@@ -848,7 +848,7 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 #about-us .read-more{
-	border: 1px solid #A27B5C;
+	border: 1px solid #2C3639;
 	color: #1a1a1a;
 }
 
@@ -896,7 +896,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #A27B5C;
+	color: #2C3639;
 	left: 0px;
 	top: 3px;
 }
