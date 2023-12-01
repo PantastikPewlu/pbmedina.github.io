@@ -149,7 +149,7 @@ figure.effect-oscar figcaption::before {
 	position: absolute;
 	top: 30px;
 	right: 30px;
-	bottom: 10px;
+	bottom: 30px;
 	left: 30px;
 	border: 1px solid #fff;
 	content: '';
