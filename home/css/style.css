@@ -493,6 +493,10 @@ a.read_more:hover {
 
 /* Services
 ---------------------------------*/
+/*	
+    border: 1px solid #fff;
+    border-radius: 80%;
+	*/
 
 #service {
     padding: 60px 0px;
@@ -529,10 +533,6 @@ a.read_more:hover {
     display: block;
     height: 100%;
     width: 100%;
-/*	
-    border: 1px solid #fff;
-    border-radius: 80%;
-	*/
 }
 
 .service_icon i {
