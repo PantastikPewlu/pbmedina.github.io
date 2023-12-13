@@ -529,9 +529,10 @@ a.read_more:hover {
     display: block;
     height: 100%;
     width: 100%;
-	
+/*	
     border: 1px solid #fff;
     border-radius: 80%;
+	*/
 }
 
 .service_icon i {
