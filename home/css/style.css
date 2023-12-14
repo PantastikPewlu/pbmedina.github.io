@@ -1028,7 +1028,7 @@ margin-bottom: 5px;
     color: #dd4b39;
 }
  .img-circle {
-border-radius: 50%;
+border-radius: 0%;
 }
 .centered {
 text-align: center;
